@@ -1,5 +1,5 @@
 # MulticAIn Capital 
-![[figs/banner.jpeg]]
+![](figs/banner.jpeg)
 
 ## Overview
 MulticAIn Capital, pioneering DAO Fund with high-conviction bets on Al agents with sensors that actually work. 
